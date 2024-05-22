@@ -6,18 +6,18 @@ info: |
   ## Blink and you’ll miss it
 title: Blink and you’ll miss it
 mdc: true
+fonts:
+  sans: 'Virgil'
+  local: Virgil
+  provider: none
+
 themeConfig:
-  color: "#F3EFF5"
-  background: "#161C2C"
 
-  code-background: "#0F131E"
-  code-border: "#242d34"
-
-  accents-pink: "#F02D5E"
+  accents-pink: "#F02D5EDD"
   accents-red: "#FE4A49"
   accents-lightblue: "#41B0F6"
-  accents-blue: "#5EADF2"
-  accents-vulcan: "#0E131F"
+  accents-blue: "#5EADF2BB"
+  accents-vulcan: "#0e131f"
 
   header-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 
@@ -36,12 +36,6 @@ themeConfig:
   section-headingBg: var(--slidev-theme-accents-lightblue)
   section-headingColor: var(--slidev-theme-color)
   section-background: var(--slidev-theme-background)
-
-  aboutme-background: var(--slidev-theme-color)
-  aboutme-color: var(--slidev-theme-background)
-  aboutme-helloBg: var(--slidev-theme-accents-pink)
-  aboutme-helloColor: var(--slidev-theme-background)
-  aboutme-nameColor: var(--slidev-theme-accents-red)
 ---
 
 # Blink and you’ll miss it
@@ -69,6 +63,7 @@ src: pages/04_race_condition.md
 
 ---
 src: pages/05_false_positive.md
+disabled: true
 ---
 
 ---

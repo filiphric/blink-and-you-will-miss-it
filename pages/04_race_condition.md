@@ -48,12 +48,15 @@ it('adds a product to cart', () => {
 layout: two-cols
 ---
 # What do we know
+<v-clicks>
+
 - test opens page and clicks on "Add to cart" button
 - test sometimes passes and sometimes fails
-- error: could not find the text: "Product added to cart!"
+- error says: could not find the text: "Product added to cart!"
+- counter shows number 0
 - test seems to click the "Add to cart" button too soon
 - test runs ok locally but fails on CI
-- our app uses REST API to fetch data
+</v-clicks>
 
 ::right::
 <img src="/images/shoe_failed.png" class="relative top-[20%]" />
@@ -61,7 +64,7 @@ layout: two-cols
 <style>
 .two-columns {
   gap: 1rem;
-  grid-template-columns: 3fr 5fr !important;
+  grid-template-columns: 5fr 5fr !important;
 }
 
 </style>

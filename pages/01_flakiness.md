@@ -49,12 +49,7 @@ layout: default
 ---
 
 # Flaky test "fixing" strategies
-- muting a test
-- quarantining a test
-- retrying a test
-- adding a longer timeout
-- reproducing a test locally
-- deleting a test
+![](/images/strategies.png){class="h-80"}
 
 <!--
 - we have these so-called strategies helping us live with the fact that our tests are flaky
@@ -71,12 +66,8 @@ layout: default
 layout: default
 ---
 # Flaky test "fixing" strategies
-- muting a test - shock
-- quarantining a test - denial 
-- retrying a test - anger
-- adding a longer timeout - bargaining 
-- reproducing a test locally - depression
-- deleting a test - acceptance
+
+![](/images/stages_of_grief.png){class="h-80"}
 
 <!-- 
 - or as I like to call them:
@@ -91,12 +82,7 @@ layout: default
 ---
 layout: center
 ---
-<span class="text-size-4xl font-bold"><span class="invisible">What happens in</span>CI<span class="invisible">stays in</span>CI</span>
-
-<Arrow x1="545" y1="240" x2="525" y2="290" />
-<Arrow x1="720" y1="240" x2="745" y2="290" />
-&nbsp;
-# What happens in <span v-mark.strike=0>Vegas</span> stays in <span v-mark.strike=0>Vegas</span>
+![](/images/what_happens.png)
 
 <!-- 
 - These strategies exist, because we have limited visibility into what is happening in CI

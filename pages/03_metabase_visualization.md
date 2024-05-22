@@ -11,15 +11,15 @@ layout: section
 -->
 
 ---
-layout: two-cols
+layout: default
 ---
 # Metabase - Visualization
 
+::div{class="flex gap-8 justify-between"}
 ![](/images/before.png)
 
-::right::
-
-![](/images/after.png){class="mt-[25.3%]"}
+![](/images/after.png)
+::
 
 ---
 layout: default

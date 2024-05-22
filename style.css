@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Virgil';
+	src: local("Virgil"),
+    url("/fonts/Virgil.woff2") format("woff");
+}
+
+:root {
+  --slidev-theme-background: transparent;
+  --slidev-theme-color: rgb(230, 230, 230);
+  --slidev-theme-accents-red: rgba(254 74 73 50%);
+}
+
+#slideshow {
+  background: url("/images/ep_naturalblack.png");
+  background-size: 10%;
+}
+
+.slidev-code {
+  background-color: #090909 !important;
+}

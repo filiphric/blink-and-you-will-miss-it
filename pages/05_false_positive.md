@@ -29,6 +29,12 @@ it('Checks accessibility of a page', () => {
 
 <!-- 
 - show code, then go to demo
+- we see the error message, but we don’t see what exactly is coing on
+- the nature of Cypress commands is that they sometimes hide what is going on behind
+- but we can actually see those violations
+- search elements
+- search react components
+- compare to passing test - code was not ran at all
 -->
 
 ---
