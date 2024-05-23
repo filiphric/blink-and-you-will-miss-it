@@ -1,6 +1,7 @@
 ---
 layout: section
 ---
+## Story #1:
 # Metabase - missing spinner
 <!-- 
 - metabase is a business intelligence software

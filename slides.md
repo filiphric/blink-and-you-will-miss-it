@@ -41,6 +41,12 @@ themeConfig:
 # Blink and you’ll miss it
 ## Stories from discovering most annoying bugs and test flakes
 
+<!--
+- I teach developers about testing and testers about web development
+- I work at dev relations for company called replay where we build time travelling browser
+- before we start, I want to do a short poll, but I’ll do it a littlebit differently
+-->
+
 ---
 src: pages/00_prompts.md
 ---

@@ -36,6 +36,8 @@ layout: section
 
 # Speed of execution vs. speed of maintenance
 
+![](/images/speed.png){class="h-70 m-auto mt-10"}
+
 <!--
 - but if you answered "yes" to any of the questions from before, you know there’s a difference between speed of execution and speed of maintenance
 - the funny thing is that we sometimes don’t notice this

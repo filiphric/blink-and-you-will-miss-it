@@ -1,6 +1,7 @@
 ---
-layout: center
+layout: section
 ---
+## Story #3:
 # Race condition test flake
 
 <!-- 
@@ -190,11 +191,7 @@ it('adds a product to cart', () => {
 ```
 ````
 
-<style>
-.slidev-code-wrapper {
-  padding-top: 20%
-}
-</style>
+<video src="/images/flake_fix.mov" autoplay loop class="w-120 mt-8 mx-auto" />
 
 <!--
 - as a result, our test code becomes cleaner

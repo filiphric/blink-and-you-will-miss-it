@@ -1,7 +1,7 @@
 ---
 layout: section
 ---
-
+## Story #2:
 # Metabase - Visualization
 
 <!--

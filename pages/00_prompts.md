@@ -13,10 +13,21 @@ layout: center
 ---
 # Has your test failed and you weren’t sure why?
 
+<style>
+h1 {
+  font-size: 2rem;
+}
+</style>
 ---
 layout: center
 ---
 # Have you ever spent more than 1 hour debugging?
+
+<style>
+h1 {
+  font-size: 2rem;
+}
+</style>
 
 ---
 layout: center
