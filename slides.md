@@ -46,6 +46,11 @@ themeConfig:
 - I work at dev relations for company called replay where we build time travelling browser
 - before we start, I want to do a short poll, but I’ll do it a littlebit differently
 -->
+<style>
+  h2 {
+    font-size: 1.6em !important;
+  }
+</style>
 
 ---
 src: pages/00_prompts.md
